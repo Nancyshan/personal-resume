@@ -1,2 +1,2 @@
 # personal-resume
-访问地址： http://nancyshan.github.io/personal-resume/
+访问地址： http://nancyshan.github.io/personal-resume/resume.html
