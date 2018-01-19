@@ -1,0 +1,126 @@
+body{
+	margin:0 auto;
+}
+	
+.head{
+	margin:0 auto;
+	background-color:blue;
+	width:800px;
+	height:145px;
+}
+#top{
+	width:600px;
+	height:35px;
+	background-color:#E90649;
+	float:right;
+	margin-top:50px;
+	border-width:50px; 
+	background-image: url(./image/er.png)
+}
+.main{
+	margin:0 auto;
+	/*background-color:black;*/
+	width:800px;
+	height:300px;
+}
+#personal{
+	height:350px;
+	width:280px;
+	color:#414B56;
+	float:left;
+	font-family: 宋体;
+	font-size: 18px;
+	/*background-color: green;*/
+}
+#skill{
+	width: 485px;
+	height: 380px;
+	color:#414B56;
+	float:right;
+	font-size: 20px;
+	
+}
+#game{
+	width: 485px;
+	height: 300px;
+	color:#414B56;
+	float:right;
+	font-size: 20px;
+	margin-top: 15px;
+}
+.small{
+	width:485px;
+	height:32px;
+	background-color: #E90649;
+	margin-bottom:5px;
+	float:left;
+	text-align:top;
+}
+.content{
+	margin-top: 10px;
+	background-color: red;
+}
+.footer{
+	margin:0 auto;
+	width:800px;
+	height:300px;
+}
+#school{
+	height:250px;
+	width:280px;
+	color:#414B56;
+	float:left;
+	font-family: 宋体;
+	font-size: 18px;
+	margin-top:20px;
+}
+
+h1{
+	text-align: center;
+	color:#E90649;/*颜色红色*/
+}
+
+h2{
+	text-align:center;
+	color:#E90649;
+	margin-top: 55px;
+}
+h4{
+	color:white;
+	margin:0;
+	padding:0;
+	padding-top: 2px;
+	margin-left: 5px;
+}
+
+.erweima{
+	width:150px;
+	height:100px;
+	margin-left: 30px;
+	margin-top:20px;
+
+}
+ul{
+	list-style-type:none;
+	margin-left:15px;
+	margin-bottom:5px;
+	padding:0;
+	color:#D67500;
+}
+#skill li{
+	margin-left:38px;
+	font-size:15px;
+
+}
+#personal li{
+	list-style-type:none;
+	margin-bottom:10px;
+}
+#school li{
+	list-style-type:none;
+	margin-bottom:10px;
+}
+#game li{
+	margin-left:38px;
+	font-size:15px;
+}
