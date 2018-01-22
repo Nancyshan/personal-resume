@@ -4,6 +4,7 @@ body{
 	
 .head{
 	margin:0 auto;
+<<<<<<< HEAD
 	/*background-color:blue;*/
 	width:800px;
 	height:80px;
@@ -33,6 +34,26 @@ body{
 	width:800px;
 	height:400px;
 /*background-color: black;*/
+=======
+	background-color:blue;
+	width:800px;
+	height:145px;
+}
+#top{
+	width:600px;
+	height:35px;
+	background-color:#E90649;
+	float:right;
+	margin-top:50px;
+	border-width:50px; 
+	background-image: url(./image/er.png)
+}
+.main{
+	margin:0 auto;
+	/*background-color:black;*/
+	width:800px;
+	height:300px;
+>>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 #personal{
 	height:350px;
@@ -41,7 +62,11 @@ body{
 	float:left;
 	font-family: 宋体;
 	font-size: 18px;
+<<<<<<< HEAD
 	
+=======
+	/*background-color: green;*/
+>>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 #skill{
 	width: 485px;
@@ -53,11 +78,19 @@ body{
 }
 #game{
 	width: 485px;
+<<<<<<< HEAD
 	height: 400px;
 	color:#414B56;
 	float:right;
 	font-size: 20px;
 	margin-top: 50px;
+=======
+	height: 300px;
+	color:#414B56;
+	float:right;
+	font-size: 20px;
+	margin-top: 15px;
+>>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 .small{
 	width:485px;
@@ -68,17 +101,26 @@ body{
 	text-align:top;
 }
 .content{
+<<<<<<< HEAD
 	margin-top: 15px;
 	/*background-color: red;*/
 	width:485px;
 	
+=======
+	margin-top: 10px;
+	background-color: red;
+>>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 .footer{
 	margin:0 auto;
 	width:800px;
+<<<<<<< HEAD
 	height:700px;
 	/*background-color:green;*/
 	margin-top:0px;
+=======
+	height:300px;
+>>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 #school{
 	height:250px;
@@ -87,6 +129,7 @@ body{
 	float:left;
 	font-family: 宋体;
 	font-size: 18px;
+<<<<<<< HEAD
 	margin-top:95px;
 }
 #resume{
@@ -105,18 +148,28 @@ body{
 	float:right;
 	font-size: 20px;
 	margin-top: 15px;
+=======
+	margin-top:20px;
+>>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 
 h1{
 	text-align: center;
 	color:#E90649;/*颜色红色*/
+<<<<<<< HEAD
 	margin-top: 130px;
+=======
+>>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 
 h2{
 	text-align:center;
 	color:#E90649;
+<<<<<<< HEAD
 	margin-top: 65px;
+=======
+	margin-top: 55px;
+>>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 h4{
 	color:white;
@@ -127,10 +180,17 @@ h4{
 }
 
 .erweima{
+<<<<<<< HEAD
 	width:125px;
 	height:113px;
 	margin-left: 20px;
 	margin-top:25px;
+=======
+	width:150px;
+	height:100px;
+	margin-left: 30px;
+	margin-top:20px;
+>>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 
 }
 ul{
@@ -157,6 +217,7 @@ ul{
 	margin-left:38px;
 	font-size:15px;
 }
+<<<<<<< HEAD
 #resume li{
 	list-style-type:none;
 	margin-bottom:10px;
@@ -170,3 +231,5 @@ ul{
 	margin-top: 20px;
 	color:#D67500;
 }
+=======
+>>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
