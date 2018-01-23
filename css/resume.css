@@ -67,7 +67,15 @@ body{
 	color:#414B56;
 	float:right;
 	font-size: 20px;
-	margin-top: 50px;
+	margin-top: 30px;
+}
+#advantage{
+	list-style-type:none;
+}
+.content p{
+	font-size: 15px;
+	color:#D67500;
+	margin-left: 150px;
 }
 .small{
 	width:485px;
@@ -113,7 +121,7 @@ body{
 	color:#414B56;
 	float:right;
 	font-size: 20px;
-	margin-top: 15px;
+	margin-top: 55px;
 }
 
 h1{
@@ -138,18 +146,21 @@ h4{
 ul{
 	list-style-type:none;
 	margin-left:15px;
-	margin-bottom:5px;
+	margin-top:40px;
+	margin-bottom:15px;
 	padding:0;
 	color:#D67500;
 }
 #skill li{
 	margin-left:38px;
 	font-size:15px;
+	padding-top: 5px;
 
 }
 #personal li{
 	list-style-type:none;
 	margin-bottom:10px;
+	
 }
 #school li{
 	list-style-type:none;
@@ -158,6 +169,7 @@ ul{
 #game li{
 	margin-left:38px;
 	font-size:15px;
+	padding-top: 5px;
 }
 #resume li{
 	list-style-type:none;
@@ -172,3 +184,4 @@ ul{
 	margin-top: 20px;
 	color:#D67500;
 }
+
