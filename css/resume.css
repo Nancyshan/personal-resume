@@ -3,94 +3,71 @@ body{
 }
 	
 .head{
-	margin:0 auto;
-<<<<<<< HEAD
+	margin:5% auto;
+	padding:0;
 	/*background-color:blue;*/
 	width:800px;
-	height:80px;
-	margin-top: 80px;
+	height:5px;
 }
-#top{
-	width:575px;
-	height:35px;
-	background-color:#E90649;
-	float:right;
-	margin-top:10px;
-	border-width:50px; 
-}
+
 #radius{
-	width:165px;
-	height:165px;
-	border-radius:80%;
-	background-color: white;
-	margin-left: 45px;
-	margin-top:30px;
-	border-width:1.2px;
-	border-style:solid;
-	border-color:#E90649 ;
+	margin:0;
+	padding:0;
+	width:168px;
+	height:166px;
+	border-radius:65%;
+	margin-left:58px;
+	background-color:white;
+	border:1px solid #E90649;
+	
 }
-.main{
-	margin:0 auto;
-	width:800px;
-	height:400px;
-/*background-color: black;*/
-=======
-	background-color:blue;
-	width:800px;
-	height:145px;
-}
+
 #top{
-	width:600px;
+	margin:0;
+	padding:0;
+	margin-top:10px;
+	float:right;
+	width:550px;
 	height:35px;
 	background-color:#E90649;
-	float:right;
-	margin-top:50px;
-	border-width:50px; 
-	background-image: url(./image/er.png)
+}
+.erweima{
+	width:125px;
+	height:113px;
+	margin-left: 22px;
+	margin-top:30px;
 }
 .main{
 	margin:0 auto;
+	padding:0;
 	/*background-color:black;*/
 	width:800px;
-	height:300px;
->>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
+	height:400px;
 }
+
 #personal{
-	height:350px;
 	width:280px;
+	height:400px;
 	color:#414B56;
 	float:left;
-	font-family: 宋体;
+	font-family:宋体;
 	font-size: 18px;
-<<<<<<< HEAD
-	
-=======
 	/*background-color: green;*/
->>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 #skill{
-	width: 485px;
-	height: 380px;
+	width:485px;
+	height:400px;
 	color:#414B56;
 	float:right;
 	font-size: 20px;
-	
 }
 #game{
 	width: 485px;
-<<<<<<< HEAD
 	height: 400px;
 	color:#414B56;
 	float:right;
 	font-size: 20px;
 	margin-top: 50px;
-=======
-	height: 300px;
-	color:#414B56;
-	float:right;
-	font-size: 20px;
-	margin-top: 15px;
->>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 .small{
 	width:485px;
@@ -101,26 +78,16 @@ body{
 	text-align:top;
 }
 .content{
-<<<<<<< HEAD
 	margin-top: 15px;
 	/*background-color: red;*/
 	width:485px;
-	
-=======
-	margin-top: 10px;
-	background-color: red;
->>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 .footer{
 	margin:0 auto;
 	width:800px;
-<<<<<<< HEAD
-	height:700px;
 	/*background-color:green;*/
 	margin-top:0px;
-=======
 	height:300px;
->>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 #school{
 	height:250px;
@@ -129,8 +96,7 @@ body{
 	float:left;
 	font-family: 宋体;
 	font-size: 18px;
-<<<<<<< HEAD
-	margin-top:95px;
+	margin-top:120px;
 }
 #resume{
 	height:250px;
@@ -139,7 +105,7 @@ body{
 	float:left;
 	font-family: 宋体;
 	font-size: 18px;
-	margin-top:60px;
+	margin-top:45px;
 }
 #practice{
 	width: 485px;
@@ -148,28 +114,18 @@ body{
 	float:right;
 	font-size: 20px;
 	margin-top: 15px;
-=======
-	margin-top:20px;
->>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 
 h1{
 	text-align: center;
 	color:#E90649;/*颜色红色*/
-<<<<<<< HEAD
-	margin-top: 130px;
-=======
->>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
+	margin-top: 145px;
 }
 
 h2{
 	text-align:center;
 	color:#E90649;
-<<<<<<< HEAD
 	margin-top: 65px;
-=======
-	margin-top: 55px;
->>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
 }
 h4{
 	color:white;
@@ -179,20 +135,6 @@ h4{
 	margin-left: 5px;
 }
 
-.erweima{
-<<<<<<< HEAD
-	width:125px;
-	height:113px;
-	margin-left: 20px;
-	margin-top:25px;
-=======
-	width:150px;
-	height:100px;
-	margin-left: 30px;
-	margin-top:20px;
->>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
-
-}
 ul{
 	list-style-type:none;
 	margin-left:15px;
@@ -217,7 +159,6 @@ ul{
 	margin-left:38px;
 	font-size:15px;
 }
-<<<<<<< HEAD
 #resume li{
 	list-style-type:none;
 	margin-bottom:10px;
@@ -231,5 +172,3 @@ ul{
 	margin-top: 20px;
 	color:#D67500;
 }
-=======
->>>>>>> f62add9194495138fdedc96f3fb264cc319448aa
